@@ -12,7 +12,6 @@
 - 🏗 Experienced in building web applications with ASP.NET Core MVC and RESTful APIs with Web API
 - 🎨 Comfortable on the front end with JavaScript, HTML, and CSS
 - 🌱 Always learning, improving, and writing clean, maintainable code
-- 📍 YOUR_CITY, Egypt
 
 ## 🛠 Tech Stack
 
